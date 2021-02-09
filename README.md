@@ -1,5 +1,8 @@
 FFmpeg Unmerged Patches
 ========================
+
+## ***This repository is deprecated.  Please see https://github.com/intel-media-ci/cartwheel-ffmpeg for latest patches***
+
 Intel upstream patches queue for ffmpeg
 
 ffmpeg mainline codebase
